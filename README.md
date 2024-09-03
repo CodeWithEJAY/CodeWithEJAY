@@ -1,10 +1,9 @@
-👋 Hi, I’m Erickson Joseph Kristoffer Luna
+Hi, I’m Erickson Joseph Kristoffer Luna
 
-🌱 I’m currently studying/learning BS Computer Science
+I’m currently studying/learning BS Computer Science
 
-  Hobbies: Chess, Basketball, and Playing Guitar
+Hobbies: Chess, Basketball, and Playing Guitar
   
-  Pronouns: he/him
 
 <!---
 Erickson-Luna/Erickson-Luna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
