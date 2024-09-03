@@ -1,4 +1,4 @@
-👋 Hi, I’m @Erickson Joseph Kristoffer Luna
+👋 Hi, I’m Erickson Joseph Kristoffer Luna
 
 🌱 I’m currently studying/learning BS Computer Science
 
