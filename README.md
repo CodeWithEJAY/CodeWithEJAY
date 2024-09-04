@@ -1,8 +1,8 @@
-# Hi, I’m EJAY!
+# 🌠 About Me
 
-I’m currently taking BS Computer Science
+I’m currently taking BS Computer Science @Laguna State Polytechnic University - Los Baños
 
-Hobbies: Chess, Basketball, and Playing Guitar
+My hobbies are: Chess, Basketball, and Playing Guitar
   
 
 <!---
