@@ -1,8 +1,13 @@
 # 🌠 About Me
 
-I’m currently taking BS Computer Science @Laguna State Polytechnic University - Los Baños
+I am Erickson Joseph Kristoffer Luna, EJAY for short
 
-My hobbies are: Chess, Basketball, and Playing Guitar
+I’m currently taking BS Computer Science at Laguna State Polytechnic University - Los Baños
+
+My hobbies are: 
+♟️ Chess 
+🏀 Basketball 
+🎸 Playing Guitar 
   
 
 <!---
