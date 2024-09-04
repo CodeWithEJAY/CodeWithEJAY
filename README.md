@@ -1,4 +1,4 @@
-Hi, I’m Erickson Joseph Kristoffer Luna
+# Hi, I’m EJAY!
 
 I’m currently taking BS Computer Science
 
