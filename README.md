@@ -8,7 +8,9 @@ My hobbies are:
 ♟️ Chess 
 🏀 Basketball 
 🎸 Playing Guitar 
-  
+
+  <img src="https://raw.githubusercontent.com/Erickson-Luna/Erickson-Luna/output/snake.svg" alt="Snake animation" />
+
 
 <!---
 Erickson-Luna/Erickson-Luna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
