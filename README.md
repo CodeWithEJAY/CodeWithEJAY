@@ -1,4 +1,4 @@
-# 🌠 About Me
+# 💫 About Me
 
 I am Erickson Joseph Kristoffer Luna, EJAY for short
 
