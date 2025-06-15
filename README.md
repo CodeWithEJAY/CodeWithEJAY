@@ -2,12 +2,12 @@
 
 <br>
 <!-- text -->
-<img align="right" height="70" src="https://i.gifer.com/4m3o.gif" />
+<img align="right" height="100" src="https://i.gifer.com/4m3o.gif" />
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FEBE00&center=true&width=435&height=60&lines=welcome,+developer!" alt="name"/>  <br>
 
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&width=435&lines=Hello%2C+I'm+EJAY!;A+passionate+Game+Developer" alt="Typing SVG" /></a>  <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=56A8F7&width=435&lines=Hello+everyone!+I'm+EJAY;An+aspiring+Game+Developer" alt="Typing SVG" /></a> <br>
 
 </div>
 
