@@ -3,11 +3,11 @@
 <br>
 <!-- text -->
 <img align="right" height="100" src="https://i.gifer.com/4m3o.gif" />
+<img align="left" height="100" src="https://i.gifer.com/3F37.gif" />
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FEBE00&center=true&width=435&height=60&lines=welcome,+developer!" alt="name"/>  <br>
 
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=56A8F7&width=435&lines=Hello+everyone!+I'm+EJAY;An+aspiring+Game+Developer" alt="Typing SVG" /></a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&center=true&width=435&lines=Hello+everyone!+I'm+EJAY;An+aspiring+Game+Developer" alt="Typing SVG" /></a>
 
 </div>
 
@@ -15,16 +15,13 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithejay" alt="codewithejay" /></a> </p>
-<img align="left" height="150" src="https://i.gifer.com/XfQ1.gif" />
+<img align="left" height="160" src="https://i.gifer.com/XfQ1.gif" />
+<img align="right" height="160" src="https://i.gifer.com/Paz.gif" />
   
 <p align="center">
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm++currently+working+on+Unity" alt="Typing SVG" /></a>
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+Java+and+C%23" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ask+me+about+Visual+Studio+Code" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&center=true&width=435&lines=I'm+currently+working+on+Unity" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&center=true&width=435&lines=I'm+currently+learning+Java+and+C%23" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=B278F7&center=true&width=435&lines=BS+Computer+Science+(BSCS)" alt="Typing SVG" /></a>
 </p>
 
 
