@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FEBE00&center=true&width=435&height=60&lines=welcome,+developer!" alt="name"/>  <br>
 
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D373DF&width=440&height=60&lines=welcome%2C+I'm+EJAY;A+passionate+game+developer" alt="Typing SVG" /></a>  <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&width=435&lines=Hello%2C+I'm+EJAY!;A+passionate+Game+Developer" alt="Typing SVG" /></a>  <br>
 
 </div>
 
@@ -19,13 +19,12 @@
   
 <p align="center">
 
-🔭 I’m currently working on *Unity and C#*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm++currently+working+on+Unity" alt="Typing SVG" /></a>
   
-🌱 I’m currently learning *Java, C#, and Unity*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+Java+and+C%23" alt="Typing SVG" /></a>
 
-💬 Ask me about *Adobe Photoshop, Visual Studio Code, and React*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ask+me+about+Visual+Studio+Code" alt="Typing SVG" /></a>
 
-📫 How to reach me *ejkristofferluna@gmail.com*
 </p>
 
 
