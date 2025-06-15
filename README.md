@@ -1,7 +1,16 @@
+<div align="center">
 
+<br>
+<!-- text -->
 <img align="right" height="70" src="https://i.gifer.com/4m3o.gif" />
 
-<h1 align="center">Hi 👋, I'm EJAY. A passionate Game Developer </h1>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FEBE00&center=true&width=435&height=60&lines=welcome,+developer!" alt="name"/>  <br>
+
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D373DF&width=440&height=60&lines=welcome%2C+I'm+EJAY;A+passionate+game+developer" alt="Typing SVG" /></a>  <br>
+
+</div>
+
 
 
 
