@@ -13,7 +13,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithejay" alt="codewithejay" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithejay&theme=onedark" alt="codewithejay" /></a> </p>
 <img align="left" height="160" src="https://i.gifer.com/XfQ1.gif" />
 <img align="right" height="160" src="https://i.gifer.com/Paz.gif" />
   
