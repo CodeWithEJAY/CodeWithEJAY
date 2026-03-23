@@ -27,7 +27,7 @@
 #  🔗 Connect with Me:
 <p align="center">
 <a href="https://twitter.com/_e.jaykristoffer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_e.jaykristoffer" height="30" width="40" /></a>
-<a href="https://fb.com/erickson joseph kristoffer luna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erickson joseph kristoffer luna" height="30" width="40" /></a>
+<a href="https://www.facebook.com/erickson.lunaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erickson joseph kristoffer luna" height="30" width="40" /></a>
 <a href="https://instagram.com/_e.jaykristoffer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_e.jaykristoffer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ejay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ejay" height="30" width="40" /></a>
 <a href="https://discord.gg/EJAY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EJAY" height="30" width="40" /></a>
