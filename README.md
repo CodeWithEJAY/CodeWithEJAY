@@ -5,15 +5,12 @@
 
 </div>
 
----
-
 ## 👋 About Me
 - 💻 Aspiring *Full-Stack Developer* and *Software Engineer* 
 - 🧠 BS Computer Science Student at *Laguna State Polytechnic University*
 - 🛠 *Adobe Photoshop*, *Figma*
 - 📚 Learning *Java*, *Python*, and *C#*
 
----
 
 ## 🔗 Connect With Me
 <p align="center">
@@ -24,7 +21,6 @@
 <a href="https://discordapp.com/users/870245101996244992"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/></a>
 </p>
 
----
 
 ## 💻 Tech Stack
 
@@ -58,7 +54,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -70,7 +65,6 @@
 
 </div>
 
----
 
 ## 🎧 Currently Listening
 <div align="center">
@@ -79,14 +73,12 @@
 
 </div>
 
----
 
 ## 👀 Profile Views
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=CodeWithEJAY&label=Profile%20views&color=0e75b6&style=flat" />
 </div>
 
----
 
 <div align="center">
 ✨ *Building scalable web apps, learning daily, and leveling up one commit at a time.* ✨
