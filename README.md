@@ -8,7 +8,7 @@
 ---
 
 ## 👋 About Me
-- 🎮 Aspiring *Full-Stack Developer* and *Software Engineer* 
+- 💻 Aspiring *Full-Stack Developer* and *Software Engineer* 
 - 🧠 BS Computer Science Student at *Laguna State Polytechnic University*
 - 🛠 *Adobe Photoshop*, *Figma*
 - 📚 Learning *Java*, *Python*, and *C#*
@@ -50,7 +50,7 @@
 
 ### ☁️ Tools & Platforms
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40"/>
@@ -89,7 +89,7 @@
 ---
 
 <div align="center">
-✨ Building games, learning daily, and leveling up one commit at a time. ✨
+✨ *Building scalable web apps, learning daily, and leveling up one commit at a time.* ✨
 </div>
 
 
