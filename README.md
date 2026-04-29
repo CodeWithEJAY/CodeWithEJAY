@@ -1,16 +1,16 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&center=true&width=500&lines=Welcome%2C+Developer!;Hello!+I'm+EJAY;Aspiring+Game+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&pause=1000&center=true&width=500&lines=Welcome%2C+Developer!;Hello!+I'm+EJAY;Aspiring+Software+Engineer" />
 
 </div>
 
 ---
 
 ## 👋 About Me
-- 🎮 Aspiring *Game Developer* and *Software Engineer* 
+- 🎮 Aspiring *Full-Stack Developer* and *Software Engineer* 
 - 🧠 BS Computer Science Student at *Laguna State Polytechnic University*
-- 🛠 Currently working with *Unity*  
+- 🛠 *Adobe Photoshop*, *Figma*
 - 📚 Learning *Java*, *Python*, and *C#*
 
 ---
