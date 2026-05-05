@@ -6,10 +6,12 @@
 </div>
 
 ## 👋 About Me
+- 🎓 2nd Year BS Computer Science Student at *Laguna State Polytechnic University - Los Baños*
 - 💻 Aspiring *Full-Stack Developer* and *Software Engineer* 
-- 🧠 BS Computer Science Student at *Laguna State Polytechnic University*
-- 🛠 *Adobe Photoshop*, *Figma*
+- 🛠 *Adobe Photoshop*, *Figma*, *Git*, *Vercel*
 - 📚 Learning *Java*, *Python*, and *C#*
+
+- I’m passionate about continuous learning, problem-solving, and creating efficient, user-focused solutions. Open to opportunities that will help me grow and contribute in the field of software development.
 
 
 ## 🔗 Connect With Me
@@ -81,7 +83,7 @@
 
 
 <div align="center">
-✨ *Building scalable web apps, learning daily, and leveling up one commit at a time.* ✨
+✨ Building scalable web apps, learning daily, and leveling up one commit at a time. ✨
 </div>
 
 
