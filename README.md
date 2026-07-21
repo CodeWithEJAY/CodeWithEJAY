@@ -70,8 +70,11 @@
 
 ## 🎧 Currently Listening
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2a3fv6oxbcw7kxvk9izm8tabz&cover_image=true&theme=default)](https://spotify-github-profile.kittinanx.com)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zlhxmezkmp6m57mjqaanxiwc24&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zlhxmezkmp6m57mjqaanxiwc24&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
 
 </div>
 
